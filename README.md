@@ -37,10 +37,9 @@ I'm a developer who loves building things that live on the internet. I thrive on
 ---
 
 ### 📫 How to Reach Me
-- 💼 **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
-- 🐦 **Twitter/X:** [@yourhandle](https://twitter.com/yourhandle)
-- 📧 **Email:** [yourname@email.com](mailto:yourname@email.com)
-- 🌐 **Portfolio:** [yourwebsite.com](https://yourwebsite.com)
+- 💼 **LinkedIn:** [linkedin.com/in/yourusername](www.linkedin.com/in/arpit-singh-patel-479165340)
+- 📧 **Email:** [yourname@email.com](arpitsinghpatel9399@gmail.com)
+- 🌐 **Portfolio:** [yourwebsite.com](na)
 
 ---
 
