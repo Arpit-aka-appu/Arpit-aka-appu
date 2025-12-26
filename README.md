@@ -7,9 +7,9 @@ I'm a developer who loves building things that live on the internet. I thrive on
 ---
 
 ### 🛠 What I'm Currently Up To
-- 🔭 **Working on:** [Project Name/Description] – *e.g., A decentralized voting app or a personal finance tracker.*
-- 🌱 **Learning:** [Language or Framework] – *e.g., Currently diving deep into Go and System Design.*
-- 👯 **Looking to collaborate on:** Open source projects related to [Your Interest, e.g., AI, Web3, or UX].
+- 🔭 **Working on:** [A Messaging app ] – *e.g., WhatsApp*
+- 🌱 **Learning:** [Language] – *e.g., Currently diving deep into Aiml - Python*
+- 👯 **Looking to collaborate on:** Open source projects related to [AI, Web3, or UX].
 - 💬 **Ask me about:** [Your Expertise] – *e.g., React, Python, or why I love Vim.*
 
 ---
