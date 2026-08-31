@@ -7,10 +7,10 @@ I'm a developer who loves building things that live on the internet. I thrive on
 ---
 
 ### 🛠 What I'm Currently Up To
-- 🔭 **Working on:** [A Messaging app ] – *e.g., WhatsApp*
-- 🌱 **Learning:** [Language] – *e.g., Currently diving deep into Aiml - Python*
+- 🔭 **Working on:** [A Messaging app ] – *app like WhatsApp*
+- 🌱 **Learning:** [Language] – *Currently diving deep into Aiml - Python*
 - 👯 **Looking to collaborate on:** Open source projects related to [AI, Web3, or UX].
-- 💬 **Ask me about:** [Your Expertise] – *e.g., React, Python, or why I love Vim.*
+- 💬 **Ask me about:** [Your Expertise] – *React, Python, or why I love Vim.*
 
 ---
 
