@@ -37,7 +37,7 @@ I'm a developer who loves building things that live on the internet. I thrive on
 
 ---
 
-"The best way to predict the future is to invent it." – Alan Kay
+"The best way to predict the future is to invent it." 
 
 <!--
 **Arpit-aka-appu/Arpit-aka-appu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
