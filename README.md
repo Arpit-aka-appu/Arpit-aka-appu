@@ -10,7 +10,7 @@ I'm a developer who loves building things that live on the internet. I thrive on
 - 🔭 **Working on:** [A Messaging app ] – *app like WhatsApp*
 - 🌱 **Learning:** [Language] – *Currently diving deep into Aiml - Python*
 - 👯 **Looking to collaborate on:** Open source projects related to [AI, Web3, or UX].
-- 💬 **Ask me about:** [Your Expertise] – *React, Python, or why I love Vim.*
+- 💬 **Ask me about:** [Your Expertise] – *React, Python, or why I love Programming.*
 
 ---
 
@@ -42,7 +42,7 @@ I'm a developer who loves building things that live on the internet. I thrive on
 <!--
 **Arpit-aka-appu/Arpit-aka-appu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
