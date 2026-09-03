@@ -12,7 +12,7 @@ I'm a developer who loves building things that live on the internet. I thrive on
 - 👯 **Looking to collaborate on:** Open source projects related to [AI, Web3, or UX].
 - 💬 **Ask me about:** [Your Expertise] – *React, Python, or why I love Programming.*
 
----
+  __
 
 ### 💻 Tools & Technologies
 
