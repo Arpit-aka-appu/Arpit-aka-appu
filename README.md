@@ -34,11 +34,8 @@ I'm a developer who loves building things that live on the internet. I thrive on
 - 💼 **LinkedIn:** [linkedin.com/in/arpit-singh-patel-](www.linkedin.com/in/arpit-singh-patel)
 - 📧 **Email:** [arpitsinghpatel9399@gmail.com](arpitsinghpatel9399@gmail.com)
 - 🌐 **Portfolio:** [Soon](na)
-
 ---
-
 The best way to predict the future is to invent it. 
-
 <!--
 **Arpit-aka-appu/Arpit-aka-appu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
